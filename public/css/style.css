@@ -146,11 +146,19 @@ body {
 
 .bus-route {
   color: #868e96;
+<<<<<<< HEAD
   margin-bottom: 15px;
 }
 
 .bus-time {
   margin-bottom: 15px;
+=======
+  margin-bottom: 10px;
+}
+
+.bus-time {
+  margin-bottom: 10px;
+>>>>>>> f9cc5f809a1e81f526608b318e85767bf8c1458d
 }
 
 .bus-available-days {
